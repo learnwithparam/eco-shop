@@ -84,6 +84,7 @@
     "categories": ["on sale", "sofas"],
     "name": "Dabit Matte Black",
     "price": "1200",
+    "brand": "Gold Comrade",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
     "currentInventory": 14
   },
@@ -101,7 +102,7 @@
     "name": "Nord Lounger",
     "price": "825",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
-    "brand": "Jason Bourne",
+    "brand": "Gold Comrade",
     "currentInventory": 13
   },
   {
@@ -117,7 +118,7 @@
     "name": "Abisko Green Recliner",
     "price": "2000",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
-    "brand": "Jason Bourne",
+    "brand": "Gold Comrade",
     "currentInventory": 23
   },
   {
@@ -125,7 +126,7 @@
     "name": "Denim on Denim Single",
     "price": "1100",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
-    "brand": "Jason Bourne",
+    "brand": "Gold Comrade",
     "currentInventory": 13
   },
   {
@@ -133,7 +134,7 @@
     "name": "Levo Tan Lounge Chair",
     "price": "600",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
-    "brand": "Jason Bourne",
+    "brand": "Gold Comrade",
     "currentInventory": 15
   },
 
@@ -142,7 +143,7 @@
     "name": "Anime Tint Recliner",
     "price": "775",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
-    "brand": "Jason Bourne",
+    "brand": "Silver Stalone",
     "currentInventory": 44
   },
   {
@@ -150,7 +151,7 @@
     "name": "Josh Jones Red Chair",
     "price": "1200",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
-    "brand": "Jason Bourne",
+    "brand": "Silver Stalone",
     "currentInventory": 17
   },
   {
@@ -166,7 +167,7 @@
     "name": "Mint Beige Workchair",
     "price": "550",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
-    "brand": "Jason Bourne",
+    "brand": "Silver Stalone",
     "currentInventory": 31
   }
 ]
