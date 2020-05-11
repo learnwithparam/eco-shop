@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Ecoshop`,
+    description: `You can buy whatever you want!`,
     author: `Param`,
     twitterUrl: "https://twitter.com/learnwithparam",
     siteUrl: "https://learnwithparam.com",
@@ -37,6 +37,13 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `./src/data/`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-chakra-ui`,
+      options: {
+        isResettingCSS: true,
+        isUsingColorMode: true,
       },
     },
   ],
