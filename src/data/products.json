@@ -1,5 +1,6 @@
 [
   {
+    "id": "sku_HG9uF45PBaiuZm",
     "categories": ["new arrivals"],
     "name": "Timber Gray Sofa",
     "price": "1000",
@@ -8,6 +9,7 @@
     "currentInventory": 4
   },
   {
+    "id": "sku_HG9zPCLFcTCD02",
     "categories": ["sofas", "living room"],
     "name": "Carmel Brown Sofa",
     "price": "1000",
@@ -16,6 +18,7 @@
     "currentInventory": 2
   },
   {
+    "id": "sku_HGA1jdORJrYPsj",
     "categories": ["new arrivals", "sofas"],
     "name": "Mod Leather Sofa",
     "price": "800",
@@ -24,6 +27,7 @@
     "currentInventory": 8
   },
   {
+    "id": "sku_HGA2ilIsuvDTi5",
     "categories": ["new arrivals", "sofas"],
     "name": "Thetis Gray Love Seat",
     "price": "900",
@@ -32,6 +36,7 @@
     "currentInventory": 10
   },
   {
+    "id": "sku_HGA25LOxtn6J6Q",
     "categories": ["on sale", "sofas"],
     "name": "Sven Tan Matte",
     "price": "1200",
@@ -40,6 +45,7 @@
     "currentInventory": 7
   },
   {
+    "id": "sku_HGA3PnaSy8WkfN",
     "categories": ["on sale", "sofas"],
     "name": "Otis Malt Sofa",
     "price": "500",
@@ -48,6 +54,7 @@
     "currentInventory": 13
   },
   {
+    "id": "sku_HGA3gqZlBX2NMc",
     "categories": ["on sale", "sofas"],
     "name": "Ceni Brown 3 Seater",
     "price": "650",
@@ -56,6 +63,7 @@
     "currentInventory": 9
   },
   {
+    "id": "sku_HGA4MKhS1SUtZo",
     "categories": ["sofas", "living room"],
     "name": "Jameson Jack Lounger",
     "price": "1230",
@@ -65,6 +73,7 @@
   },
 
   {
+    "id": "sku_HGA55pZr7oRAvN",
     "categories": ["sofas"],
     "name": "Galaxy Blue Sofa",
     "price": "800",
@@ -73,6 +82,7 @@
     "currentInventory": 43
   },
   {
+    "id": "sku_HGA5p95WSoRMUF",
     "categories": ["new arrivals", "sofas"],
     "name": "Markus Green Love Seat",
     "price": "900",
@@ -81,6 +91,7 @@
     "currentInventory": 2
   },
   {
+    "id": "sku_HGA6qpQBYGTnw6",
     "categories": ["on sale", "sofas"],
     "name": "Dabit Matte Black",
     "price": "1200",
@@ -90,6 +101,7 @@
   },
 
   {
+    "id": "sku_HGA7rGVdQzlj9e",
     "categories": ["on sale", "chairs"],
     "name": "Embrace Blue",
     "price": "300",
@@ -98,6 +110,7 @@
     "currentInventory": 12
   },
   {
+    "id": "sku_HGA7M63v7hhVNg",
     "categories": ["on sale", "chairs"],
     "name": "Nord Lounger",
     "price": "825",
@@ -106,6 +119,7 @@
     "currentInventory": 13
   },
   {
+    "id": "sku_HGA8RNw0xSBeRH",
     "categories": ["on sale", "chairs"],
     "name": "Ceni Matte Oranve",
     "price": "720",
@@ -114,6 +128,7 @@
     "currentInventory": 33
   },
   {
+    "id": "sku_HGA8NcJurOuXAz",
     "categories": ["on sale", "chairs"],
     "name": "Abisko Green Recliner",
     "price": "2000",
@@ -122,6 +137,7 @@
     "currentInventory": 23
   },
   {
+    "id": "sku_HGAAS9omZmpjxw",
     "categories": ["on sale", "chairs"],
     "name": "Denim on Denim Single",
     "price": "1100",
@@ -130,6 +146,7 @@
     "currentInventory": 13
   },
   {
+    "id": "sku_HGAAFU9W878uBN",
     "categories": ["on sale", "chairs"],
     "name": "Levo Tan Lounge Chair",
     "price": "600",
@@ -137,8 +154,8 @@
     "brand": "Gold Comrade",
     "currentInventory": 15
   },
-
   {
+    "id": "sku_HGAB0b0icdkwMc",
     "categories": ["on sale", "chairs"],
     "name": "Anime Tint Recliner",
     "price": "775",
@@ -147,6 +164,7 @@
     "currentInventory": 44
   },
   {
+    "id": "sku_HGABd0nLsEOsP2",
     "categories": ["on sale", "chairs"],
     "name": "Josh Jones Red Chair",
     "price": "1200",
@@ -155,6 +173,7 @@
     "currentInventory": 17
   },
   {
+    "id": "sku_HGABzU9S0ZkxmR",
     "categories": ["on sale", "chairs"],
     "name": "Black Sand Lounge",
     "price": "1600",
@@ -163,6 +182,7 @@
     "currentInventory": 28
   },
   {
+    "id": "sku_HGACXiYiZlfY98",
     "categories": ["on sale", "chairs"],
     "name": "Mint Beige Workchair",
     "price": "550",
