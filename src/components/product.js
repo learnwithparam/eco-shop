@@ -8,6 +8,7 @@ import {
   Divider,
   Button,
 } from "@chakra-ui/core";
+import { useStripe } from "@stripe/react-stripe-js";
 
 const Categories = ({ tags }) => {
   return (
@@ -31,6 +32,21 @@ const Categories = ({ tags }) => {
 };
 
 const Product = ({ product }) => {
+  const stripe = useStripe();
+
+  const placeOrder = sku => {
+    stripe.redirectToCheckout({
+      items: [
+        {
+          sku,
+          quantity: 1,
+        },
+      ],
+      successUrl: "http://localhost:8000/success",
+      cancelUrl: "http://localhost:8000/cancel",
+    });
+  };
+
   return (
     <Flex
       border="1px solid"
@@ -56,7 +72,11 @@ const Product = ({ product }) => {
         <Button variantColor="yellow" size="sm" mr="2">
           Add to cart
         </Button>
-        <Button variant="outline" size="sm">
+        <Button
+          variant="outline"
+          size="sm"
+          onClick={() => placeOrder(product.id)}
+        >
           Buy now
         </Button>
       </Box>
