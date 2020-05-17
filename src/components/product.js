@@ -7,6 +7,7 @@ import {
   Badge,
   Divider,
   Button,
+  Image,
 } from "@chakra-ui/core";
 import { useStripe } from "@stripe/react-stripe-js";
 
@@ -54,6 +55,7 @@ const Product = ({ product }) => {
       borderRadius="4px"
       flexDirection="column"
     >
+      <Image src={product.image} alt="Random images" />
       <Box p="4">
         <Heading as="h3" fontSize="xl">
           {product.name}

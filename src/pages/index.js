@@ -27,6 +27,7 @@ export const pageQuery = graphql`
           name
           categories
           price
+          image
         }
       }
     }

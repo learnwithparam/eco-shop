@@ -6,7 +6,8 @@
     "price": "1000",
     "description": "Stay a while. The Timber charme chocolat sofa is set atop an oak trim and flaunts fluffy leather back and seat cushions. Over time, this brown leather sofa’s full-aniline upholstery will develop a worn-in vintage look. Snuggle up with your cutie (animal or human) and dive into a bowl of popcorn. This sofa is really hard to leave. Natural color variations, wrinkles and creases are part of the unique characteristics of this leather. It will develop a relaxed vintage look with regular use.",
     "brand": "Jason Bourne",
-    "currentInventory": 4
+    "currentInventory": 4,
+    "image": "https://picsum.photos/id/10/200/200"
   },
   {
     "id": "sku_HG9zPCLFcTCD02",
@@ -15,7 +16,8 @@
     "price": "1000",
     "description": "Stay a while. The Timber charme chocolat sofa is set atop an oak trim and flaunts fluffy leather back and seat cushions. Over time, this brown leather sofa’s full-aniline upholstery will develop a worn-in vintage look. Snuggle up with your cutie (animal or human) and dive into a bowl of popcorn. This sofa is really hard to leave. Natural color variations, wrinkles and creases are part of the unique characteristics of this leather. It will develop a relaxed vintage look with regular use.",
     "brand": "Jason Bourne",
-    "currentInventory": 2
+    "currentInventory": 2,
+    "image": "https://picsum.photos/id/20/200/200"
   },
   {
     "id": "sku_HGA1jdORJrYPsj",
@@ -24,7 +26,8 @@
     "price": "800",
     "description": "Easy to love. The Sven in birch ivory looks cozy and refined, like a sweater that a fancy lady wears on a coastal vacation. This ivory loveseat has a tufted bench seat, loose back pillows and bolsters, solid walnut legs, and is ready to make your apartment the adult oasis you dream of. Nestle it with plants, an ottoman, an accent chair, or 8 dogs. Your call.",
     "brand": "Jason Bourne",
-    "currentInventory": 8
+    "currentInventory": 8,
+    "image": "https://picsum.photos/id/30/200/200"
   },
   {
     "id": "sku_HGA2ilIsuvDTi5",
@@ -33,7 +36,8 @@
     "price": "900",
     "description": "You know your dad’s incredible vintage bomber jacket? The Nirvana dakota tan leather sofa is that jacket, but in couch form. With super-plush down-filled cushions, a corner-blocked wooden frame, and a leather patina that only gets better with age, the Nirvana will have you looking cool and feeling peaceful every time you take a seat. Looks pretty great with a sheepskin throw, if we may say so. With use, this leather will become softer and more wrinkled and the cushions will take on a lived-in look, like your favorite leather jacket.",
     "brand": "Jason Bourne",
-    "currentInventory": 10
+    "currentInventory": 10,
+    "image": "https://picsum.photos/id/40/200/200"
   },
   {
     "id": "sku_HGA25LOxtn6J6Q",
@@ -42,7 +46,8 @@
     "price": "1200",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
     "brand": "Jason Bourne",
-    "currentInventory": 7
+    "currentInventory": 7,
+    "image": "https://picsum.photos/id/50/200/200"
   },
   {
     "id": "sku_HGA3PnaSy8WkfN",
@@ -51,7 +56,8 @@
     "price": "500",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
     "brand": "Jason Bourne",
-    "currentInventory": 13
+    "currentInventory": 13,
+    "image": "https://picsum.photos/id/60/200/200"
   },
   {
     "id": "sku_HGA3gqZlBX2NMc",
@@ -60,7 +66,8 @@
     "price": "650",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
     "brand": "Jason Bourne",
-    "currentInventory": 9
+    "currentInventory": 9,
+    "image": "https://picsum.photos/id/70/200/200"
   },
   {
     "id": "sku_HGA4MKhS1SUtZo",
@@ -69,7 +76,8 @@
     "price": "1230",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
     "brand": "Jason Bourne",
-    "currentInventory": 24
+    "currentInventory": 24,
+    "image": "https://picsum.photos/id/80/200/200"
   },
 
   {
@@ -79,7 +87,8 @@
     "price": "800",
     "description": "Easy to love. The Sven in birch ivory looks cozy and refined, like a sweater that a fancy lady wears on a coastal vacation. This ivory loveseat has a tufted bench seat, loose back pillows and bolsters, solid walnut legs, and is ready to make your apartment the adult oasis you dream of. Nestle it with plants, an ottoman, an accent chair, or 8 dogs. Your call.",
     "brand": "Jason Bourne",
-    "currentInventory": 43
+    "currentInventory": 43,
+    "image": "https://picsum.photos/id/90/200/200"
   },
   {
     "id": "sku_HGA5p95WSoRMUF",
@@ -88,7 +97,8 @@
     "price": "900",
     "description": "You know your dad’s incredible vintage bomber jacket? The Nirvana dakota tan leather sofa is that jacket, but in couch form. With super-plush down-filled cushions, a corner-blocked wooden frame, and a leather patina that only gets better with age, the Nirvana will have you looking cool and feeling peaceful every time you take a seat. Looks pretty great with a sheepskin throw, if we may say so. With use, this leather will become softer and more wrinkled and the cushions will take on a lived-in look, like your favorite leather jacket.",
     "brand": "Jason Bourne",
-    "currentInventory": 2
+    "currentInventory": 2,
+    "image": "https://picsum.photos/id/100/200/200"
   },
   {
     "id": "sku_HGA6qpQBYGTnw6",
@@ -97,7 +107,8 @@
     "price": "1200",
     "brand": "Gold Comrade",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
-    "currentInventory": 14
+    "currentInventory": 14,
+    "image": "https://picsum.photos/id/110/200/200"
   },
 
   {
@@ -107,7 +118,8 @@
     "price": "300",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
     "brand": "Jason Bourne",
-    "currentInventory": 12
+    "currentInventory": 12,
+    "image": "https://picsum.photos/id/120/200/200"
   },
   {
     "id": "sku_HGA7M63v7hhVNg",
@@ -116,7 +128,8 @@
     "price": "825",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
     "brand": "Gold Comrade",
-    "currentInventory": 13
+    "currentInventory": 13,
+    "image": "https://picsum.photos/id/130/200/200"
   },
   {
     "id": "sku_HGA8RNw0xSBeRH",
@@ -125,7 +138,8 @@
     "price": "720",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
     "brand": "Jason Bourne",
-    "currentInventory": 33
+    "currentInventory": 33,
+    "image": "https://picsum.photos/id/140/200/200"
   },
   {
     "id": "sku_HGA8NcJurOuXAz",
@@ -134,7 +148,8 @@
     "price": "2000",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
     "brand": "Gold Comrade",
-    "currentInventory": 23
+    "currentInventory": 23,
+    "image": "https://picsum.photos/id/151/200/200"
   },
   {
     "id": "sku_HGAAS9omZmpjxw",
@@ -143,7 +158,8 @@
     "price": "1100",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
     "brand": "Gold Comrade",
-    "currentInventory": 13
+    "currentInventory": 13,
+    "image": "https://picsum.photos/id/160/200/200"
   },
   {
     "id": "sku_HGAAFU9W878uBN",
@@ -152,7 +168,8 @@
     "price": "600",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
     "brand": "Gold Comrade",
-    "currentInventory": 15
+    "currentInventory": 15,
+    "image": "https://picsum.photos/id/170/200/200"
   },
   {
     "id": "sku_HGAB0b0icdkwMc",
@@ -161,7 +178,8 @@
     "price": "775",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
     "brand": "Silver Stalone",
-    "currentInventory": 44
+    "currentInventory": 44,
+    "image": "https://picsum.photos/id/180/200/200"
   },
   {
     "id": "sku_HGABd0nLsEOsP2",
@@ -170,7 +188,8 @@
     "price": "1200",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
     "brand": "Silver Stalone",
-    "currentInventory": 17
+    "currentInventory": 17,
+    "image": "https://picsum.photos/id/190/200/200"
   },
   {
     "id": "sku_HGABzU9S0ZkxmR",
@@ -179,7 +198,8 @@
     "price": "1600",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
     "brand": "Jason Bourne",
-    "currentInventory": 28
+    "currentInventory": 28,
+    "image": "https://picsum.photos/id/200/200/200"
   },
   {
     "id": "sku_HGACXiYiZlfY98",
@@ -188,6 +208,7 @@
     "price": "550",
     "description": "You don’t have to go outside to be rugged. The Cigar rawhide sofa features a sturdy corner-blocked wooden frame and raw seams for that Malboro-person look. This brown leather sofa is cozy in a cottage, cabin, or a condo. And the leather (the leather!) becomes more beautiful with use: subtle character markings such as insect bites, healed scars, and grain variation reflects a real vintage. Saddle up and pass the remote.",
     "brand": "Silver Stalone",
-    "currentInventory": 31
+    "currentInventory": 31,
+    "image": "https://picsum.photos/id/210/200/200"
   }
 ]
