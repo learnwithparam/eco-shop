@@ -7,8 +7,15 @@
 // You can delete this file if you're not using it
 
 import React from "react";
+import { Elements } from "@stripe/react-stripe-js";
+import { loadStripe } from "@stripe/stripe-js";
+
 import CartProvider from "./src/context/cart";
 
+const stripePromise = loadStripe("pk_test_FqfOKoybWF1MEQNRNbk5GWuw00Qgtn3SLM");
+
 export const wrapRootElement = ({ element }) => (
-  <CartProvider>{element}</CartProvider>
+  <Elements stripe={stripePromise}>
+    <CartProvider>{element}</CartProvider>
+  </Elements>
 );
