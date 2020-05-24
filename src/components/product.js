@@ -11,6 +11,8 @@ import {
 } from "@chakra-ui/core";
 import { useStripe } from "@stripe/react-stripe-js";
 
+import { useCartStore } from "../context/cart";
+
 const Categories = ({ tags }) => {
   return (
     <Box ml="auto">
@@ -34,6 +36,7 @@ const Categories = ({ tags }) => {
 
 const Product = ({ product }) => {
   const stripe = useStripe();
+  const { addToCart } = useCartStore();
 
   const placeOrder = sku => {
     stripe.redirectToCheckout({
@@ -45,6 +48,13 @@ const Product = ({ product }) => {
       ],
       successUrl: "http://localhost:8000/success",
       cancelUrl: "http://localhost:8000/cancel",
+    });
+  };
+
+  const addProductToCart = product => {
+    addToCart({
+      ...product,
+      quantity: 1,
     });
   };
 
@@ -71,7 +81,12 @@ const Product = ({ product }) => {
       </Flex>
       <Divider m="0" />
       <Box px="4" py="3">
-        <Button variantColor="yellow" size="sm" mr="2">
+        <Button
+          variantColor="yellow"
+          size="sm"
+          mr="2"
+          onClick={() => addProductToCart(product)}
+        >
           Add to cart
         </Button>
         <Button
