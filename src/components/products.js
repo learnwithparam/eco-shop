@@ -18,7 +18,7 @@ const Products = ({ products }) => {
           </Text>
         </Text>
       </Box>
-      <Grid templateColumns="repeat(2, 1fr)" gap={6}>
+      <Grid templateColumns={["repeat(1, 1fr)", "repeat(2, 1fr)"]} gap={6}>
         {products.map(({ node: product }) => (
           <Product product={product} key={product.name} />
         ))}

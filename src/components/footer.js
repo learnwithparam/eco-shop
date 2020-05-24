@@ -12,14 +12,22 @@ const FooterLink = styled(StyledLink)`
 const Footer = () => {
   return (
     <Box as="header" borderTop="1px solid" borderColor="gray.700" py="4">
-      <Flex width="100%" maxW="720px" m="0 auto" alignItems="center">
+      <Flex
+        width="100%"
+        maxW="720px"
+        m="0 auto"
+        px="2"
+        alignItems="center"
+        flexDirection={["column", "row"]}
+        justifyContent={["center", "flex-start"]}
+      >
         <Box>
           <Text as="span">© {new Date().getFullYear()} </Text>
           <Text as="span" color="red.400">
             learnwithparam.com
           </Text>
         </Box>
-        <Box as="nav" ml="auto">
+        <Box as="nav" ml={["0", "auto"]}>
           <FooterLink to="/support/terms-and-conditions">
             Terms and Conditions
           </FooterLink>

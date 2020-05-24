@@ -29,7 +29,7 @@ const Header = ({ siteTitle }) => {
 
   return (
     <Box as="header" borderBottom="1px solid" borderColor="gray.700" py="3">
-      <Flex width="100%" maxW="720px" m="0 auto" alignItems="center">
+      <Flex width="100%" maxW="720px" m="0 auto" px="2" alignItems="center">
         <Box>
           <Heading as="h1" m="0" fontSize="32px">
             <LogoLink to="/">
