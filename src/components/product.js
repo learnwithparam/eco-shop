@@ -47,7 +47,7 @@ const Product = ({ product }) => {
         },
       ],
       successUrl: `${process.env.GATSBY_SITE_URL}/success`,
-      cancelUrl: `${process.env.GATSBY_SITE_URL}/cancel`,
+      cancelUrl: `${window.location.origin}/cancel`,
     });
   };
 
