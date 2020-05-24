@@ -21,8 +21,8 @@ const BuyAll = ({ cart }) => {
     });
     stripe.redirectToCheckout({
       items,
-      successUrl: "http://localhost:8000/success",
-      cancelUrl: "http://localhost:8000/cancel",
+      successUrl: `${process.env.GATSBY_SITE_URL}/success`,
+      cancelUrl: `${process.env.GATSBY_SITE_URL}/cancel`,
     });
   };
 
