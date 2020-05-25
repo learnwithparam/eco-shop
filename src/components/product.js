@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "gatsby";
 import {
   Flex,
   Box,
@@ -68,7 +69,7 @@ const Product = ({ product }) => {
       <Image src={product.image} alt="Random images" />
       <Box p="4">
         <Heading as="h3" fontSize="xl">
-          {product.name}
+          <Link to={`/products/${product.id}`}>{product.name}</Link>
         </Heading>
         <Text>{product.brand}</Text>
       </Box>
@@ -92,6 +93,7 @@ const Product = ({ product }) => {
         <Button
           variant="outline"
           size="sm"
+          mr="2"
           onClick={() => placeOrder(product.id)}
         >
           Buy now
