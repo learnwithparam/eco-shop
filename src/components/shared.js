@@ -5,7 +5,8 @@ import { Flex, Box } from "@chakra-ui/core";
 
 export const StyledLink = styled(Link)`
   color: ${props => `${props.theme.colors.yellow[400]}`};
-  text-decoration: underline;
+  text-decoration: ${props =>
+    `${props.textDecoration ? props.textDecoration : "underline"}`};
   &:hover {
     color: ${props => `${props.theme.colors.yellow[600]}`};
   }

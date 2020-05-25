@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "gatsby";
 import {
   Flex,
   Box,
@@ -13,6 +12,7 @@ import {
 import { useStripe } from "@stripe/react-stripe-js";
 
 import { useCartStore } from "../context/cart";
+import { StyledLink } from "../components/shared";
 
 const Categories = ({ tags }) => {
   return (
@@ -69,7 +69,9 @@ const Product = ({ product }) => {
       <Image src={product.image} alt="Random images" />
       <Box p="4">
         <Heading as="h3" fontSize="xl">
-          <Link to={`/products/${product.id}`}>{product.name}</Link>
+          <StyledLink to={`/products/${product.id}`} textDecoration="none">
+            {product.name}
+          </StyledLink>
         </Heading>
         <Text>{product.brand}</Text>
       </Box>
