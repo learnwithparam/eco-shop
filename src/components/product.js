@@ -66,7 +66,7 @@ const Product = ({ product }) => {
       borderRadius="4px"
       flexDirection="column"
     >
-      <Image src={product.image} alt="Random images" />
+      <Image p={2} height="200px" src={product.image} alt="Random images" />
       <Box p="4">
         <Heading as="h3" fontSize="xl">
           <StyledLink to={`/products/${product.id}`} textDecoration="none">
